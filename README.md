@@ -1,3 +1,5 @@
+[![TypeDB MCP on mcprush](https://mcprush.com/badge/typedb-mcp/score.svg)](https://mcprush.com/to/typedb-mcp?ref=badge)
+
 # TypeDB MCP Server
 
 An MCP (Model Context Protocol) server that enables AI assistants to interact with [TypeDB](https://typedb.com) databases. This allows LLMs to execute TypeQL queries, manage databases, and manage users through natural language.
